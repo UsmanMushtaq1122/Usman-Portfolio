@@ -45,13 +45,14 @@ const LeftBanner = () => {
           </h2>
           <div className="flex gap-4">
             <span className="bannerIcon">
-              <FaFacebookF />
+             <FaFacebookF />  
             </span>
             <span className="bannerIcon">
-              <FaTwitter />
+               <FaTwitter/> 
             </span>
             <span className="bannerIcon">
-              <FaLinkedinIn />
+            
+              <FaLinkedinIn  />
             </span>
           </div>
         </div>
